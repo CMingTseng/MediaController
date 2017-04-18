@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主题色 蓝灰 -->
+    <color name="themeBg">#1B1E27</color>
+
+    <color name="transform90">#ccffffff</color>
+    <color name="transform80">#eeffffff</color>
+    <color name="transform60">#87000000</color>
+    <color name="transform10">#1affffff</color>
+    <color name="transformBlack95">#f21D1B27</color>
+    <color name="transformBlack90">#e6000000</color>
+    <color name="transformBlack80">#cc000000</color>
+    <color name="transformBlack70">#b3000000</color>
+    <color name="transformBlack60">#87000000</color>
+    <color name="transformBlack10">#1a000000</color>
+    <color name="transformBlack40">#66000000</color>
+
+    <color name="text_yellow">#ffd10c</color>
+    <color name="pay_toast">#ccffd10c</color>
+    <color name="text_green">#17e49f</color>
+    <color name="text_green4">#5CB85C</color>
+    <color name="red">#FFC93437</color>
+    <color name="red2">#D9534F</color>
+    <color name="blue">#FF375BF1</color>
+    <color name="yellow">#FFF7D23E</color>
+    <color name="yellow2">#fff5df84</color>
+    <color name="green">#FF34A350</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#000000</color>
+    <color name="black50">#7f000000</color>
+</resources>

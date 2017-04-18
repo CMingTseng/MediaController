@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <yyl.media.controller.VideoTextureView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:tag="yyl.media.controller.VideoTextureView" />
+
+    <include layout="@layout/yyl_controller_full" />
+
+    <include layout="@layout/yyl_controller_small" />
+
+    <include layout="@layout/yyl_controller_widget" />
+
+
+</FrameLayout>
